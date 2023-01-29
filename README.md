@@ -1,1 +1,2 @@
 # Excel-Project
+In this Excel project, I utilized bike sales data to create a comprehensive dashboard to showcase key insights and trends. I started by performing data cleaning to ensure that the raw data was ready for analysis. Then, I utilized pivot tables and charts to summarize the data and identify meaningful patterns. I then created a final dashboard, complete with interactive slicers to allow for visual data filtering. The dashboard provides a clear and intuitive display of the key factors impacting bike sales, offering valuable insights to support decision-making.
